@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DataDrivenTest">
+	<test name="LoginTest">
+		<classes>
+			<class name="com.talech.testcases.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="AddNewCustomerTest">
+		<classes>
+			<class name="com.talech.testcases.AddNewCustomerTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

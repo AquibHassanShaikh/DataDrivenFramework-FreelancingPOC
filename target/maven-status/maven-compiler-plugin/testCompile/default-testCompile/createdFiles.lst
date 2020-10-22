@@ -1,0 +1,5 @@
+com\talech\testcases\LoginTest.class
+com\talech\base\TestBase.class
+com\talech\rough\Rough1.class
+com\talech\utilites\ExcelReader.class
+com\talech\testcases\AddNewCustomerTest.class
